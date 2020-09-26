@@ -1,0 +1,96 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Community</string>
+    <string name="events">Events</string>
+    <string name="events_detail">Events Detail</string>
+    <string name="find_person">Find Person</string>
+    <string name="person_details">Person Details</string>
+    <string name="post_message">Post Message</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="gender">Gender</string>
+    <string name="current_address">Current Address</string>
+    <string name="permanent_address">Permanent Address</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="caste">Caste</string>
+    <string name="sub_caste">SubCaste</string>
+    <string name="write_your_post">Write Your Post</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="submit">Submit</string>
+    <!--<string name="first" tools:ignore="StringEscaping">First, let's find your account</string>-->
+    <string name="please">Please enter Your Email or Phone</string>
+    <string name="email_or_phone">Enter Your Email or Phone*</string>
+    <string name="find_account">Find Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_your_name">Enter Your Name*</string>
+    <string name="enter_your_mobile">Enter Your Mobile Number*</string>
+    <string name="enter_your_email">Enter Your Email Id*</string>
+    <string name="enter_your_password">Enter Your Password*</string>
+    <string name="sex">Sex*</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_your_current_address">Enter Your Current Address*</string>
+    <string name="enter_your_permanent_address">Enter Your Permanent Address*</string>
+    <string name="enter_your_zipcode">Enter your Zip Code*</string>
+    <string name="enter_your_city">Enter Your City *</string>
+    <string name="enter_your_state">Enter Your State*</string>
+    <string name="enter_your_country">Enter Your Country*</string>
+    <string name="upload_profile_pic">Upload Profile Photo*</string>
+    <string name="register_user">Register</string>
+    <string name="caste_select">Select Your Caste*</string>
+    <string name="sub_caste_select">Select Your Sub Caste*</string>
+    <string name="or">OR</string>
+    <string name="not_a_member">NOT A MEMBER? JOIN NOW</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forget_password">FORGOT PASSWORD</string>
+
+
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string-array name="caste">
+        <item>Patel</item>
+        <item>Yadav</item>
+        <item>Pal</item>
+        <item>Shrivastav</item>
+        <item>saxena</item>
+        <item>Gangwar</item>
+        <item>Singh</item>
+        <item>Datta</item>
+        <item>Chauhan</item>
+        <item>Chaurasiya</item>
+        <item>Panday</item>
+        <item>Datta</item>
+        <item>Mishra</item>
+        <item>Gupta</item>
+        <item>Jaiswal</item>
+        <item>Chaudhari</item>
+        <item>Malviya</item>
+
+    </string-array>
+    <string-array name="sub_caste">
+        <item>Ahir</item>
+        <item>Kurmi</item>
+        <item>Gareriya</item>
+        <item>Harizan</item>
+        <item>Dhobi</item>
+        <item>Koiri</item>
+        <item>Pasi</item>
+
+        <item>Sonar</item>
+        <item>Baniya</item>
+        <item>Kashtriya</item>
+        <item>Rajput</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
